@@ -1,0 +1,29 @@
+/* ================== VARIABLES ================== */
+
+:root {
+    --main-font: 'Open Sans', sans-serif;
+    --secondary-font: 'Raleway', sans-serif;
+    --accent-color: teal;
+  }
+
+  /* ================== /VARIABLES ================== */
+
+  /* ================== BASE ================== */
+  .list {
+    list-style: none;
+  }
+
+  .link {
+    text-decoration: none;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
